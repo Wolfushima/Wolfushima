@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Wolfushima
-- 👀 I’m interested in learning as much as I can.
-- 🌱 I’m currently learning HTML, CSS, Javascript.
-- 💞️ I’m looking to collaborate on cool projects.
+• Electronic Engineer seeking a career as a full stack web developer.
+• Self-taught programmer.
+• My main focus is with JavaScript.
+- 
 
 <!---
 Wolfushima/Wolfushima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
