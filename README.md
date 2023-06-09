@@ -14,7 +14,7 @@
 
 <p>&ensp;</p>
 
-- 🔭 I’m currently working on [Where is Waldo?](wolfushima.github.io/where-is-waldo/)
+- 🔭 I’m currently working on [Where is Waldo?](https://github.com/Wolfushima/where-is-waldo)
 
 - 🌱 I’m currently learning **NodeJS**
 
