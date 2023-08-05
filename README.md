@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [Updating my portfolio](https://github.com/Wolfushima/portfolio)
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NodeJS** and **MongoDB**
 
 - 👨‍💻 Portfolio [https://adolfoherrera.netlify.app/](https://adolfoherrera.netlify.app/)
 
