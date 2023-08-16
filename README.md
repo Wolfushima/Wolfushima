@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [Updating my portfolio](https://github.com/Wolfushima/portfolio)
 
-- 🌱 I’m currently learning **NodeJS**, **MongoDB** and **Express.js**
+- 🌱 I’m currently learning **NodeJS**, **MongoDB/Mongoose** and **Express.js**
 
 - 👨‍💻 Portfolio [https://adolfoherrera.netlify.app/](https://adolfoherrera.netlify.app/)
 
