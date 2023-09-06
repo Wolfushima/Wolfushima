@@ -8,7 +8,7 @@
 <p>&ensp;</p>
 
 <h1 align="center">Hi 👋, I'm Adolfo Herrera</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 <p>&ensp;</p>
 <img align="right" alt="Coding" width="380" src="https://media.tenor.com/R6zEIJQaUh4AAAAC/we-bare-bears-ice-bear.gif">
 
