@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **NodeJS**, **MongoDB/Mongoose** and **Express.js**
 
-- 👨‍💻 Portfolio [https://adolfoherrera.netlify.app/](https://adolfoherrera.netlify.app/)
+- 💻 Portfolio [https://adolfoherrera.netlify.app/](https://adolfoherrera.netlify.app/)
 
 <p>&ensp;</p>
 <p>&ensp;</p>
