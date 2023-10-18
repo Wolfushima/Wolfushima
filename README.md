@@ -14,7 +14,7 @@
 
 <p>&ensp;</p>
 
-- 🔭 I’m currently working on [Inventory-application](https://github.com/Wolfushima/inventory-application)
+- 🔭 I’m currently working on [Crowds](https://github.com/Wolfushima/crowds)
 
 - 🌱 I’m currently learning **NodeJS**, **MongoDB/Mongoose** and **Express.js**
 
